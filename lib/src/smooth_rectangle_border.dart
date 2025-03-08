@@ -1,7 +1,6 @@
 import 'package:figma_squircle/src/smooth_radius.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-
 import 'smooth_border_radius.dart';
 
 enum BorderAlign {

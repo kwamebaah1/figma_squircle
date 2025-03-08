@@ -1,4 +1,5 @@
 import 'dart:ui';
+import 'package:flutter/foundation.dart';
 
 class SmoothRadius extends Radius {
   const SmoothRadius({
